@@ -1,6 +1,6 @@
 const CONFIG = {
-   titleWeb: "Hello ai đó cute",
-    introTitle: 'Mỹ Phượng',
+   titleWeb: "Hello Đại Ka",
+    introTitle: 'Hải Yến ',
     introDesc: `Yêu một người không khó,
     Vì chẳng cần lý do,
     Chút tình cảm nho nhỏ
